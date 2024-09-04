@@ -8,8 +8,6 @@ I'm Brodie Nguyen - a problem solver with an artistic soul mainly using software
 
 - 🧑🏻‍🔬 Learner & Doer at [IMTBN DEV](https://imtbn.com/)
 
-- 👨🏻‍🎓 High achiever awarded Roll of Excellent at [UTAS 2022](https://www.utas.edu.au/__data/assets/pdf_file/0006/1631841/Roll-of-Excellence-CoSE-Dec-2022.pdf) in the Bachelor of ICT.
-
 - 🚵🏻‍♂️ Daily eMTB rider
 
 - 📸 Hobbyist photographer
