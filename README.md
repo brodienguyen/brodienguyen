@@ -14,7 +14,7 @@ I'm Brodie Nguyen - a problem solver with an artistic soul mainly using software
 
 ### Languages, Tools & Technologies**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,mongodb,postgres,flutter,javascript,vue,vite,svelte,figma,ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,mongodb,postgres,ansible,docker,flutter,javascript,vite,vue,svelte,figma,ps&theme=dark" />
 </p>
 
 
