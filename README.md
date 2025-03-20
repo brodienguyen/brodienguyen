@@ -12,7 +12,7 @@ I'm Brodie Nguyen - a problem solver with an artistic soul mainly using software
 
 - 📸 Hobbyist photographer
 
-### Languages, Tools & Technologies**
+### Languages, Tools & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ruby,rails,mongodb,postgres,ansible,docker,flutter,javascript,vite,vue,svelte,figma,ps&theme=dark" />
 </p>
