@@ -4,7 +4,7 @@ I'm Brodie Nguyen - a problem solver with an artistic soul mainly using software
 
 ### Roles in life
 
-- 👨🏻‍💻 Fullstack Ruby on Rails Developer at [Myfoodlink](https://myfoodlink.com.au/)
+- 👨🏻‍💻 Senior Fullstack Ruby on Rails Developer at [Myfoodlink](https://myfoodlink.com.au/)
 
 - 🧑🏻‍🔬 Learner & Doer at [IMTBN DEV](https://imtbn.com/)
 
