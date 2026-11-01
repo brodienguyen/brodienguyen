@@ -1,0 +1,348 @@
+{
+  "github": "brodienguyen",
+  "name": "Brodie Nguyen",
+  "title": "Product Engineer, Rails-first",
+  "stack": [
+    {
+      "label": "BACKEND",
+      "items": [
+        {
+          "name": "Ruby",
+          "icon": "ruby"
+        },
+        {
+          "name": "Ruby on Rails",
+          "icon": "rubyonrails"
+        },
+        {
+          "name": "Hotwire",
+          "icon": "hotwire"
+        },
+        {
+          "name": "Stimulus",
+          "icon": "stimulus"
+        },
+        {
+          "name": "Inertia.js",
+          "icon": "inertia"
+        },
+        {
+          "name": "Packwerk",
+          "icon": "rubygems"
+        },
+        {
+          "name": "RSpec",
+          "icon": "rubygems"
+        },
+        {
+          "name": "Solid Queue",
+          "icon": "rubygems"
+        }
+      ]
+    },
+    {
+      "label": "FRONTEND",
+      "items": [
+        {
+          "name": "Svelte",
+          "icon": "svelte"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "typescript"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwindcss"
+        },
+        {
+          "name": "Vite",
+          "icon": "vite"
+        },
+        {
+          "name": "Vitest",
+          "icon": "vitest"
+        },
+        {
+          "name": "Playwright"
+        }
+      ]
+    },
+    {
+      "label": "DATA",
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "icon": "postgresql"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "mongodb"
+        }
+      ]
+    },
+    {
+      "label": "MOBILE",
+      "items": [
+        {
+          "name": "Capacitor",
+          "icon": "capacitor"
+        },
+        {
+          "name": "Flutter",
+          "icon": "flutter"
+        },
+        {
+          "name": "Swift",
+          "icon": "swift"
+        },
+        {
+          "name": "Kotlin",
+          "icon": "kotlin"
+        },
+        {
+          "name": "iOS",
+          "icon": "ios"
+        },
+        {
+          "name": "Android",
+          "icon": "android"
+        }
+      ]
+    },
+    {
+      "label": "DEVOPS",
+      "items": [
+        {
+          "name": "Docker Swarm",
+          "icon": "docker"
+        },
+        {
+          "name": "Proxmox",
+          "icon": "proxmox"
+        },
+        {
+          "name": "NixOS",
+          "icon": "nixos"
+        },
+        {
+          "name": "OpenTofu",
+          "icon": "opentofu"
+        },
+        {
+          "name": "Ansible",
+          "icon": "ansible"
+        },
+        {
+          "name": "Traefik",
+          "icon": "traefikproxy"
+        },
+        {
+          "name": "Komodo",
+          "icon": "komodo"
+        },
+        {
+          "name": "Authentik",
+          "icon": "authentik"
+        },
+        {
+          "name": "Tailscale",
+          "icon": "tailscale"
+        },
+        {
+          "name": "OpenTelemetry",
+          "icon": "opentelemetry"
+        },
+        {
+          "name": "SigNoz",
+          "icon": "signoz"
+        },
+        {
+          "name": "GitHub Actions",
+          "icon": "githubactions"
+        },
+        {
+          "name": "Buildkite",
+          "icon": "buildkite"
+        }
+      ]
+    }
+  ],
+  "footer": "Engineer by day, tinkering by night",
+  "open_source": {
+    "url": "https://github.com/pulls?q=is%3Apr+author%3Abrodienguyen+is%3Amerged+is%3Apublic+-user%3Abrodienguyen",
+    "lane_order": [
+      "rubys/roundhouse",
+      "inertiajs/inertia",
+      "inertiajs/inertia-rails",
+      "skryukov/rails_vite"
+    ],
+    "title": "I fix the tools I use.",
+    "coauthored": {
+      "repo": "inertiajs/inertia",
+      "number": 2677
+    }
+  },
+  "intro": {
+    "user": "brodie",
+    "host": "australia",
+    "name": "Brodie Nguyen",
+    "role": "product engineer · Australia",
+    "fields": [
+      [
+        "approach",
+        "problem solver with an artistic soul"
+      ],
+      [
+        "leads",
+        "architecture, standards, delivery"
+      ],
+      [
+        "builds",
+        "whole products, database to pixels"
+      ],
+      [
+        "focus",
+        "developer productivity at scale"
+      ],
+      [
+        "agents",
+        "AI-native delivery, with guardrails"
+      ],
+      [
+        "mindset",
+        "learn fast, ship, own the outcome"
+      ],
+      [
+        "roles",
+        "engineer · husband · ex-photographer"
+      ]
+    ],
+    "colours": [
+      "accent",
+      "green",
+      "yellow",
+      "cyan",
+      "pink",
+      "orange"
+    ],
+    "tags": [
+      "RAILS",
+      "SVELTE",
+      "DEVOPS",
+      "AGENTIC"
+    ],
+    "motto": [
+      "Solve the real problem.",
+      "Then make it beautiful."
+    ],
+    "table": [
+      [
+        "Backend",
+        "Ruby · Rails"
+      ],
+      [
+        "Frontend",
+        "Svelte · TypeScript"
+      ],
+      [
+        "Mobile",
+        "Swift · Kotlin · Flutter"
+      ],
+      [
+        "DevOps",
+        "Proxmox · NixOS · OpenTofu · Ansible"
+      ],
+      [
+        "Agents",
+        "hooks · skills · sandboxes"
+      ]
+    ]
+  },
+  "agents": {
+    "task": "an idea or a bug",
+    "gate": "human sign-off, taste",
+    "gate_short": "human sign-off",
+    "ship": "shipped",
+    "lanes": [
+      {
+        "agent": "AGENT 1",
+        "tree": "NEW FEATURE"
+      },
+      {
+        "agent": "AGENT 2",
+        "tree": "BUG FIX"
+      },
+      {
+        "agent": "AGENT 3",
+        "tree": "CLEAN-UP"
+      }
+    ],
+    "alt": "I make AI agents safe to ship with. Three agents work in parallel on a new feature, a bug fix and a clean-up, inside guardrails of hooks, skills and lint rules; nothing ships without human sign-off.",
+    "headline": "I make AI agents safe to ship with.",
+    "headline_short": [
+      "I make AI agents",
+      "safe to ship with."
+    ],
+    "subline": "Guardrails that let agents do real work without breaking things, whichever agent comes next.",
+    "values": [
+      "ONE RULEBOOK FOR EVERY AGENT",
+      "HOOKS THAT BLOCK RISKY COMMANDS",
+      "CUSTOM LINT RULES AS GUARDRAILS",
+      "PROJECT SKILLS AND REVIEWER AGENTS"
+    ],
+    "harness": "GUARDRAILS",
+    "caption": "FIG. 02 · AGENTS WORKING INSIDE GUARDRAILS"
+  },
+  "capabilities": {
+    "layers": [
+      {
+        "name": "EXPERIENCE",
+        "detail": "design system · Inertia + Svelte · Capacitor iOS and Android"
+      },
+      {
+        "name": "PRODUCT",
+        "detail": "multi-tenant Rails SaaS · per-tenant custom domains"
+      },
+      {
+        "name": "INTEGRATIONS",
+        "detail": "delivery, loyalty and BNPL partner APIs in production"
+      },
+      {
+        "name": "IDENTITY",
+        "detail": "passkeys · SSO · ACLs · tenant isolation"
+      },
+      {
+        "name": "INFRASTRUCTURE + DEVOPS",
+        "detail": "Proxmox HA cluster · Docker Swarm · NixOS · OpenTofu"
+      }
+    ],
+    "dx": {
+      "name": "DEVELOPER EXPERIENCE",
+      "detail": "Bottlenecks I removed, and how.",
+      "items": [
+        [
+          "microservices tax on a small team",
+          "Packwerk modular monolith"
+        ],
+        [
+          "full CI suite on every push",
+          "test selection + cached results"
+        ],
+        [
+          "agents can read secrets",
+          "hooks deny agent secret reads"
+        ],
+        [
+          "parallel agents collide",
+          "isolated worktree per agent"
+        ],
+        [
+          "agents can’t drive dashboards",
+          "CLI-first ops, plan then apply"
+        ]
+      ]
+    },
+    "caption": "ONE ENGINEER, EVERY LAYER"
+  }
+}

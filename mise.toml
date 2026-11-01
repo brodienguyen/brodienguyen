@@ -1,0 +1,14 @@
+[tools]
+ruby = "4.0"
+
+[tasks.readme]
+description = "Rebuild README.md and its SVG panels"
+run = "ruby bin/build.rb"
+
+[tasks.live]
+description = "Rebuild only the live panels (upstream timeline, irb session, contribution city)"
+run = "ruby bin/build.rb live"
+
+[tasks.icons]
+description = "Vendor the stack's Simple Icons into icons/simple-icons.json"
+run = "ruby bin/fetch-icons.rb"

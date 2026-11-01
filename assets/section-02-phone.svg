@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="48" viewBox="0 0 400 48" role="img" aria-label="02 · AGENTIC ENGINEERING">
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="translate(0 0)"><path d="M16 0H0V16" fill="none" stroke="#4cc9f0" stroke-opacity="0.07"/></pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#4cc9f0"/></marker>
+  </defs>
+  <style>
+    .sans { font-family: 'Space Grotesk', 'Inter', ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .label { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; letter-spacing: 0.14em; fill: #8aa0b4; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; font-weight: 600; letter-spacing: 0.14em; fill: #4cc9f0; }
+    
+  </style>
+  <path d="M0 0H400V48H0Z" fill="#0b1622"/>
+  <path d="M0 0H400V48H0Z" fill="url(#grid)"/>
+  <g transform="translate(16 0)"><text x="1" y="30" class="eyebrow">02 · AGENTIC ENGINEERING</text></g>
+</svg>
